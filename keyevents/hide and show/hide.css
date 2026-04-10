@@ -1,0 +1,26 @@
+* {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+#myimg {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#button {
+    width: 100px;
+    height: 100px;
+    display: inline;
+}
+#myimg2 {
+    width: 100px;
+    height: 100px;
+    display: inline;
+}
